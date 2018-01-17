@@ -7,6 +7,9 @@ Santa Clara, January 17th 2018
 - [Catalit](https://www.catalit.com/)
 - [Udemy Deep Learning course](https://www.dataweekends.com/udemy)
 
+- [Slides Introduction](https://www.slideshare.net/FrancescoMosconi/introduction-to-keras-global-artificial-intelligence-conference-santa-clara-2018)
+- [Slides Advanced](https://www.slideshare.net/FrancescoMosconi/advanced-keras-global-artificial-intelligence-conference-santa-clara-2018)
+
 
 ## Get started guide
 
