@@ -1,11 +1,11 @@
+## [Check our Zero To Deep Learning 5 day bootcamp. New dates are out!](https://bootcamp.zerotodeeplearning.com)
+
+----
+
+
 # Global Artificial Intelligence Keras training
 
 Santa Clara, January 17th 2018
-
-### About us:
-- [Dataweekends](https://www.dataweekends.com/)
-- [Catalit](https://www.catalit.com/)
-- [Udemy Deep Learning course](https://www.dataweekends.com/udemy)
 
 ### Slides:
 
